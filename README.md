@@ -1,10 +1,5 @@
 - 👋 Hi, I’m @Mzark15
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-Mzark15/Mzark15 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👀 I’m interested in data analytics, machine learning, and bioinformatics.
+- 🌱 I’m currently learning advanced machine learning techniques and web development.
+- 💞️ I’m looking to collaborate on projects related to data science, bioinformatics, and web applications.
+- 📫 How to reach me: You can reach me via email at mzarkar10@gmail.com or connect with me on LinkedIn at linkedin.com/in/mayur-zarkar-3675832b2.
